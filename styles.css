@@ -1,0 +1,8 @@
+div {
+    border-radius: 50%;
+    transition: all 200ms;
+    background-color: #000;
+    width: 100px;       
+    height: 100px;
+  
+}
